@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <product type="fridge">
+        <price>10</price>
+        <name>Samsung</name>
+        <height>270</height>
+        <width>100</width>
+    </product>
+    <product type="kettle">
+        <price>10</price>
+        <name>Bosch</name>
+        <volume>3</volume>
+    </product>
+    <product type="Tv">
+        <price>10</price>
+        <name>LG</name>
+        <diagonal>30</diagonal>
+    </product>
+    <product type="kettle">
+        <price>10</price>
+        <name>Xiaomi</name>
+        <volume>3</volume>
+    </product>
+    <product type="kettle">
+        <price>10</price>
+        <name>Bork</name>
+        <volume>2</volume>
+    </product>
+</root>
