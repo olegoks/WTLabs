@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <student type="fridge">
+        <name>Oleg</name>
+        <group>951004</group>
+        <id>1</id>
+    </student>
+    <student type="fridge">
+        <name>Ilya</name>
+        <group>951004</group>
+        <id>2</id>
+    </student>
+</root>

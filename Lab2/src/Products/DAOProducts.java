@@ -72,7 +72,7 @@ public class DAOProducts{
     }
     public static interface ProcessFunction {
         public void ProcessProduct(Product product);
-    }
+    } 
 
     private Document doc;
     public DAOProducts(String productsFileName){
